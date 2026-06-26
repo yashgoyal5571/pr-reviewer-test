@@ -1,4 +1,4 @@
-# pr-reviewer-test
+# PR-Reviewer-Test
 
 This is the sandbox repository for my n8n-powered PR Auto-Reviewer bot. Its only purpose is to give the bot real pull requests to review. Open a PR here and the bot will post a structured review comment automatically.
 
