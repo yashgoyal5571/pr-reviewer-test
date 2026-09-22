@@ -1,4 +1,3 @@
-# PR-Reviewer-Test
 
 Sandbox repository for the [PR Auto-Reviewer](https://github.com/yashgoyal5571/pr-auto-reviewer) bot. Open a PR here and the bot posts a structured review comment automatically.
 
